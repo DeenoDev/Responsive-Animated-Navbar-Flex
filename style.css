@@ -52,7 +52,7 @@ nav{
 .nav-links li a::before {
     content: "";
     display: block;
-    height: 3px;
+    height: 0px;
     width: 0%;
     background-color: #61DAFB;
     position: absolute;
